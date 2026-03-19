@@ -8,4 +8,6 @@
 
 {{ include "agent.system.main.solving.md" }}
 
+{{ include "agent.system.efficiency_protocol.md" }}
+
 {{ include "agent.system.main.tips.md" }}

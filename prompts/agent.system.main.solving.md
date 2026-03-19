@@ -7,6 +7,10 @@ explain each step in thoughts
 agentic mode active
 
 1 check memories solutions skills prefer skills
+   - **Efficiency Check:** Match task complexity to Resource Tiers (Economy, Standard, Premium).
+   - **Search First:** Use `skills_tool:search` to find the exact "Sniper" skill needed.
+   - **Justify:** Select the most efficient agent/skill path and justify it in your thoughts.
+   - **Hard Stop:** Stop and ask User approval for **Tier 3 (Premium)** tasks.
 
 2 break task into subtasks if needed
 
